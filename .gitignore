@@ -2,4 +2,6 @@
 
 *.net
 
-!sixth.net 
+!sixth.net
+
+[aeiou]*.java 
